@@ -5,7 +5,6 @@ STEP-1
 The water content in surrounding air and materials such as soil is an important factor for the well-being of humans, animals, plants, and other living things. The term moisture generally refers to the water content of any material. It is applied to liquids and solids, whereas humidity refers to the water vapor content in gases.
 This soil moisture sensor in our kit has two probes to pass current through the soil. It measures the resistance and represents the change in resistance as moisture level. More water makes the soil conduct electricity more easily (less resistance), while dry soil conducts electricity poorly (more resistance). This sensor will be helpful as a reminder to water your indoor plants or to monitor the soil moisture in your garden.
 
-![image](https://github.com/blazingfire03/Plant-Hydration-System/assets/99821502/5bd0fb65-6e0d-48e6-8047-c709f528610d)
 
 
 
@@ -14,7 +13,6 @@ A relay is basically an electrically actuated switch. Many sensors are incredibl
 
 In this guide, the relay is used to turn the submersible water pump on and off.
 
-![image](https://github.com/blazingfire03/Plant-Hydration-System/assets/99821502/1c8fa58e-5594-465f-8784-53679d5ffdbe)
 
 
 
@@ -23,9 +21,6 @@ Without further ado, let's get started with connecting up the components. First,
 Connect GND on the relay to negative power rail of breadboard.
 Connect IN on relay to Pin 3 on Arduino.
 
-![image](https://github.com/blazingfire03/Plant-Hydration-System/assets/99821502/2df90198-d9a8-4d22-a825-fbe8d72e7431)
-
-
 
 
 STEP-4
@@ -33,7 +28,7 @@ Connect the '-' black wire from battery pack to the negative power rail on the b
 Connect to the battery.
 Next, connect the black wire of pump to negative power rail.
 
-![image](https://github.com/blazingfire03/Plant-Hydration-System/assets/99821502/27788134-068b-4097-b829-64a1b66261e4)
+
 
 
 
@@ -46,7 +41,7 @@ Connect a F-M jumper wire from VCC on the module to 3.3V on the Arduino.
 Connect red wire of pump to NC.
 Connect the '+' red wire from battery holder to COM on the relay.
 
-![image](https://github.com/blazingfire03/Plant-Hydration-System/assets/99821502/014ddaee-8953-4d49-a908-74f8c7e0c8fa)
+
 
 
 
