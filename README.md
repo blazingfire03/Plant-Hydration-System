@@ -4,11 +4,8 @@ The Robotics-Based Plant Hydration System seeks to revolutionize plant care by l
 
 STEPS:
 
-
-
-
-
 STEP-1
+
 The water content in surrounding air and materials such as soil is an important factor for the well-being of humans, animals, plants, and other living things. The term moisture generally refers to the water content of any material. It is applied to liquids and solids, whereas humidity refers to the water vapor content in gases.
 This soil moisture sensor in our kit has two probes to pass current through the soil. It measures the resistance and represents the change in resistance as moisture level. More water makes the soil conduct electricity more easily (less resistance), while dry soil conducts electricity poorly (more resistance). This sensor will be helpful as a reminder to water your indoor plants or to monitor the soil moisture in your garden.
 
@@ -16,14 +13,12 @@ This soil moisture sensor in our kit has two probes to pass current through the 
 
 
 STEP-2
+
 A relay is basically an electrically actuated switch. Many sensors are incredibly sensitive and which may produce only small electric currents. When we need to use them in circuits involving larger currents, that's when relays bridge the gap; A relay makes it possible for small currents to activate larger ones, and to safely do so. 
-
-In this guide, the relay is used to turn the submersible water pump on and off.
-
-
 
 
 STEP-3
+
 Without further ado, let's get started with connecting up the components. First, connect VCC on the relay to 5V pin on Arduino
 Connect GND on the relay to negative power rail of breadboard.
 Connect IN on relay to Pin 3 on Arduino.
@@ -31,6 +26,7 @@ Connect IN on relay to Pin 3 on Arduino.
 
 
 STEP-4
+
 Connect the '-' black wire from battery pack to the negative power rail on the breadboard
 Connect to the battery.
 Next, connect the black wire of pump to negative power rail.
