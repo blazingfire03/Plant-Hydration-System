@@ -1,6 +1,13 @@
 # Plant-Hydration-System:
 The Robotics-Based Plant Hydration System seeks to revolutionize plant care by leveraging the capabilities of robotics, automation, and artificial intelligence (AI). This system aims to provide precise and adaptive plant hydration, tailored to the unique needs of each plant, while minimizing water wastage and human intervention. By utilizing cutting-edge technologies such as sensors, actuators, and machine learning algorithms, this system has the potential to redefine how we care for our plants, whether they are in our homes, offices, or vast agricultural fields.
+
+
 STEPS:
+
+
+
+
+
 STEP-1
 The water content in surrounding air and materials such as soil is an important factor for the well-being of humans, animals, plants, and other living things. The term moisture generally refers to the water content of any material. It is applied to liquids and solids, whereas humidity refers to the water vapor content in gases.
 This soil moisture sensor in our kit has two probes to pass current through the soil. It measures the resistance and represents the change in resistance as moisture level. More water makes the soil conduct electricity more easily (less resistance), while dry soil conducts electricity poorly (more resistance). This sensor will be helpful as a reminder to water your indoor plants or to monitor the soil moisture in your garden.
