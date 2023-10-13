@@ -59,10 +59,14 @@ OUTPUT
 
 CODE:
 
+
 Sensor Calibration:
+
 ![Calibration Code](https://github.com/blazingfire03/Plant-Hydration-System/assets/99821502/69453d35-4f27-436d-90e5-a45c192e8eab)
 
+
 Hydration System:
+
 ![Hydration code](https://github.com/blazingfire03/Plant-Hydration-System/assets/99821502/b8f89b82-cab1-4c88-b146-1e26c800722d)
 
 
